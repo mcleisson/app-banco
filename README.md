@@ -8,7 +8,7 @@ Aplicação Banco
 
     Configurações
 
-Faça o downloado do projeto, e acesse a pasta via linha de comando. O projeto utiliza banco de dados em PostgreSQL Após acessar a pasta via linha de comando, rode os comandos a seguir nesta sequencia:
+Faça o downloado do projeto, e acesse a pasta via linha de comando. O projeto utiliza banco de dados em PostgreSQL, antes de rodar os comandos, acesse a pasta config/database.yml, e altere as informações de usuário, senha e host para o seu banco de dados. Após acessar a pasta via linha de comando, rode os comandos a seguir nesta sequencia:
 
 bundle install (irá instalar as dependencias da aplicação)
 
