@@ -2,9 +2,9 @@
 
 Aplicação Banco
 
-    Versão Ruby - 2.4
+    Versão Ruby - 2.6.5
 
-    Versão do Rails - 5.2.4
+    Versão do Rails - 6.0.2
 
     Configurações
 
@@ -18,7 +18,9 @@ rake db:migrate (irá criar as tabelas no banco de dados)
 
 rake db:seed (irá alimentar as tabelas com alguns dados)
 
-    Informações de acesso ao sistema Usuários: user: teste@teste.com pass: 123456 Permissão: Cliente
+    Informações de acesso ao sistema Usuários:
+
+user: teste@teste.com pass: 123456 Permissão: Cliente
 
 user: teste2@teste2.com pass: 123456 Permissão: Cliente
 
